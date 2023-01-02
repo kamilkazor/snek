@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/snek/static/js/main.7149f3bb.js",
+    "static/media/sneklogo.png": "/snek/static/media/sneklogo.f3555a73e85a118bb182.png",
+    "index.html": "/snek/index.html",
+    "main.7149f3bb.js.map": "/snek/static/js/main.7149f3bb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7149f3bb.js"
+  ]
+}
