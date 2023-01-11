@@ -100,7 +100,7 @@ const Game: React.FC<Props> = (props) => {
   return (
     <Board>
       {bricks}
-      {/* {!gameOver && !running && <Notification option="PAUSED" />} */}
+      {!gameOver && !running && <Notification option="PAUSED" />}
       {gameOver && <Notification option="GAME OVER" />}
     </Board>
   );
